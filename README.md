@@ -20,7 +20,8 @@ Prolog's declarative, logic-based programming paradigm made it well-suited for N
 ### Natural Language Understanding: 
 Prolog has been used for natural language understanding tasks, such as parsing and semantic interpretation. Prolog's ability to perform unification and logical inference allowed researchers to develop parsers and semantic analyzers that could interpret the meaning of natural language sentences based on grammatical rules and semantic representations.
 
-### Grammar Formalisms: Prolog has been used to implement various grammar formalisms for representing linguistic structures, including context-free grammars (CFGs), phrase structure grammars (PSGs), and dependency grammars. Prolog's pattern matching and backtracking capabilities make it suitable for parsing and generating sentences according to these grammar formalisms.
+### Grammar Formalisms: 
+Prolog has been used to implement various grammar formalisms for representing linguistic structures, including context-free grammars (CFGs), phrase structure grammars (PSGs), and dependency grammars. Prolog's pattern matching and backtracking capabilities make it suitable for parsing and generating sentences according to these grammar formalisms.
 
 ### Machine Translation: 
 Prolog has been used in research on machine translation systems. Prolog's logical programming model allows researchers to express translation rules and linguistic constraints in a declarative manner, facilitating the development of rule-based translation systems.
