@@ -1,4 +1,4 @@
-# Throughout history, both Lisp and Prolog have played significant roles in natural language processing (NLP) research and development, each contributing in its own way to the advancement of the field:
+## Throughout history, both Lisp and Prolog have played significant roles in natural language processing (NLP) research and development, each contributing in its own way to the advancement of the field:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQzZjQ2dWpxY2Fjanczdms1bHA2NTNicTY5OXhsdjEyODhpZWJlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0fz5uNPHnoVHLEhAW2/giphy.gif"/>
