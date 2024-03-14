@@ -32,7 +32,7 @@ Prolog has been used in research on machine translation systems. Prolog's logica
 
 
 <div id="footer" align="center">
-  <img src="https://www.svgrepo.com/show/374005/prolog.svg" width = "400"/>
-  <img src="https://www.svgrepo.com/show/373810/lisp.svg" width = "400"/>
+  <img src="https://www.svgrepo.com/show/374005/prolog.svg" width = "250"/>
+  <img src="https://www.svgrepo.com/show/373810/lisp.svg" width = "250"/>
 </div>
 
