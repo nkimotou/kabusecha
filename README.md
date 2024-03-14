@@ -31,11 +31,11 @@ Prolog has been used to implement various grammar formalisms for representing li
 Prolog has been used in research on machine translation systems. Prolog's logical programming model allows researchers to express translation rules and linguistic constraints in a declarative manner, facilitating the development of rule-based translation systems.
 
 
-<div id="footer" align="center">
+<div id="footer" align="left">
   <img src="https://www.svgrepo.com/show/374005/prolog.svg" width = "400"/>
 </div>
 
-<div id="footer" align="center">
+<div id="footer" align="right">
   <img src="https://www.svgrepo.com/show/373810/lisp.svg" width = "400"/>
 </div>
 
